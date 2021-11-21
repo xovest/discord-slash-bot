@@ -1,0 +1,12 @@
+name = "discord-slash-demo"
+type = "javascript"
+zone_id = ""
+account_id = "05dc8566bbd3fe88d214dba536f57a7a"
+route = ""
+workers_dev = true
+compatibility_date = "2021-11-21"
+
+[build]
+command = "npm install && npm run build"
+[build.upload]
+format = "service-worker"
