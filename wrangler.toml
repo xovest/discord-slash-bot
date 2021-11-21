@@ -1,0 +1,8 @@
+name = "slash-comm-bot"
+type = "javascript"
+
+account_id = "05dc8566bbd3fe88d214dba536f57a7a"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-11-21"
